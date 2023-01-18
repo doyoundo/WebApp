@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.idea",
+    "\\ajax",
+    "\\css"
   ],
   "PreviewInSolutionExplorer": false
 }
