@@ -5,6 +5,11 @@
   background: #adff2f;
 }
 
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    background: #adff2f;
+  }
+}
 a, a:focus {
   color: #adff2f;
 }
