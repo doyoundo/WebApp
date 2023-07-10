@@ -561,15 +561,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-dark-2 {
-  background-color: #f5df4e !important;
+  background-color: #343a40 !important;
 }
 
 .bg-dark-3 {
-  background-color: #f5df4e !important;
+  background-color: #495057 !important;
 }
 
 .bg-dark-4 {
-  background-color: #f5df4e !important;
+  background-color: #6c757d !important;
 }
 
 /* Progress Bar */
