@@ -3404,7 +3404,7 @@ select.form-control:not([size]):not([multiple]):not(.form-control-sm) {
 }
 
 .bg-primary, .badge-primary {
-  background-color: #939597 !important;
+  background-color: #f5df4e !important;
 }
 
 .bg-secondary {
