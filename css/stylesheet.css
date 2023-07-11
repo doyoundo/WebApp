@@ -137,7 +137,7 @@ body {
 
 /*--- Preloader Magnific Popup ----*/
 .mfp-container .preloader {
-  background: #053eff;
+  background: transparent;
 }
 
 .mfp-container .preloader .lds-ellipsis div {
