@@ -3408,7 +3408,7 @@ select.form-control:not([size]):not([multiple]):not(.form-control-sm) {
 }
 
 .bg-secondary {
-  background-color: #939597 !important;
+  background-color: #f5df4e !important;
 }
 
 .text-primary {
