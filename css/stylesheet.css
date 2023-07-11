@@ -137,7 +137,7 @@ body {
 
 /*--- Preloader Magnific Popup ----*/
 .mfp-container .preloader {
-  background: transparent;
+  background: #053eff;
 }
 
 .mfp-container .preloader .lds-ellipsis div {
@@ -553,7 +553,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Background Dark */
 .bg-dark {
-  background-color: #f5df4e !important;
+  background-color: #111418 !important;
 }
 
 .bg-dark-1 {
@@ -561,15 +561,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-dark-2 {
-  background-color: #f5df4e !important;
+  background-color: #343a40 !important;
 }
 
 .bg-dark-3 {
-  background-color: #f5df4e !important;
+  background-color: #495057 !important;
 }
 
 .bg-dark-4 {
-  background-color: #f5df4e !important;
+  background-color: #6c757d !important;
 }
 
 /* Progress Bar */
@@ -3635,7 +3635,7 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
 
 #styles-switcher .switcher-toggle {
   position: absolute;
-  background: #f5ea1f;
+  background: #555;
   color: #fff;
   font-size: 1.25rem;
   border-radius: 0px 4px 4px 0;
