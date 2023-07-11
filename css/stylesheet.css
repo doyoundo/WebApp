@@ -553,23 +553,23 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Background Dark */
 .bg-dark {
-  background-color: #111418 !important;
+  background-color: #ffffff !important;
 }
 
 .bg-dark-1 {
-  background-color: #212529 !important;
+  background-color: #e9ecef !important;
 }
 
 .bg-dark-2 {
-  background-color: #343a40 !important;
+  background-color: #dee2e6  !important;
 }
 
 .bg-dark-3 {
-  background-color: #495057 !important;
+  background-color: #ced4da !important;
 }
 
 .bg-dark-4 {
-  background-color: #6c757d !important;
+  background-color: #adb5bd !important;
 }
 
 /* Progress Bar */
